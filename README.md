@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HJ%20IM%20Github&color=auto">
 </div>
-
+<hr>
 <br>
 <br>
 
@@ -18,7 +18,7 @@
   <!-- java spring springboot -->
   <img src="https://img.shields.io/badge/java-4FC08D.svg?style=for-the-badge"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
 </div>
 
 <br>
