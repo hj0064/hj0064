@@ -8,7 +8,8 @@
 <!-- vue.js javascript html css java springboot -->
 <hr>
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-20232a.svg?style=for-the-badge&logo=react&logoColor=#4FC08D" />&nbsp
+<!-- <img src="https://img.shields.io/badge/작성하려는 텍스트-색상코드?style=flat-square&logo=아이콘명&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp
 
 </div>
 
