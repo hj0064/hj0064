@@ -1,8 +1,20 @@
 <!--타이틀 부분-->
 <div align="center">
-  <h1 align="center">
+  <h2 align="center">
     Hi! Welcome to hj's Github 👋👋
-  </h1>
+  </h2>
+</div>
+
+<br>
+
+
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
+  </div>
+<!--   <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
+  </div> -->
 </div>
 
 <br>
@@ -67,14 +79,4 @@
   </a>
 </div>
 
-<br>
 
-<div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
-  </div>
-  
-</div>
