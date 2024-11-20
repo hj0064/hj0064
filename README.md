@@ -34,7 +34,6 @@
 <br>
 
 <h3 align="center">🛠 Corwork tools 🛠</h3>
-<hr>
 <!-- git github notion figma slack gather -->
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -47,7 +46,6 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<hr>
 <div align="center">
   <a href="mailto:heeim0064@gmail.com">
     <img
