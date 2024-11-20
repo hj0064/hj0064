@@ -67,13 +67,14 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
-    ![hj's GitHub stats]()
   </div>
   <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
   </div>
   
 </div>
