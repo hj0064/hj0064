@@ -1,25 +1,11 @@
-<!--타이틀 부분-->
 <div align="center">
   <h2 align="center">
-    Hi! Welcome to hj's Github 👋👋
+    👋 Hi! Welcome to hj's Github 👋
   </h2>
 </div>
 
 <br>
 
-
-<div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
-  </div>
-<!--   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
-  </div> -->
-</div>
-
-<br>
-
-<!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <!-- vue.js javascript html css java springboot -->
 <div align="center">
@@ -72,6 +58,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
+<br color="gray">
 <div align="center">
   <a href="mailto:heeim0064@gmail.com">
     <img
@@ -79,4 +66,13 @@
   </a>
 </div>
 
+<br>
 
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
+  </div>
+<!--   <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
+  </div> -->
+</div>
