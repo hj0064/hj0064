@@ -10,7 +10,7 @@
 <!--html css javascript vue.js -->
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java%20script-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp
 </div>
 
@@ -56,10 +56,10 @@
 <br>
 <hr>
 <div align="center">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
-  </div>
 <!--   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
   </div> -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj0064&layout=compact">
+  </div>
 </div>
