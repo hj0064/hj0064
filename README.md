@@ -2,12 +2,14 @@
   <h2 align="center">
     👋 Hi! Welcome to hj's Github 👋
   </h2>
+  <hr>
 </div>
 
 <br>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <!-- vue.js javascript html css java springboot -->
+<hr>
 <div align="center">
   <img src="https://img.shields.io/badge/Vue.js-20232a.svg?style=for-the-badge&logo=react&logoColor=#4FC08D" />&nbsp
 
@@ -23,6 +25,7 @@
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
+<hr>
 <!-- typescript react python   --> 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -33,6 +36,7 @@
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
+<hr>
 <!-- git github notion figma intellij -->
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -46,7 +50,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<br>
+<hr>
 
 <div align="center">
   <!-- vscode intellij -->
@@ -55,10 +59,10 @@
   
 </div>
 
-<br>
+<hr>
 
 <h3 align="center">📫 Contact 📫</h3>
-<br color="gray">
+<hr>
 <div align="center">
   <a href="mailto:heeim0064@gmail.com">
     <img
@@ -67,7 +71,7 @@
 </div>
 
 <br>
-
+<hr>
 <div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=hj0064&show_icons=true&theme=dracula">
