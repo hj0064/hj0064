@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HJ%20IM%20Github&fontAlign=70&color=auto">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HJ%20IM%20Github&color=auto">
 </div>
 
 <br>
@@ -32,9 +32,9 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">🛠 Corwork tools 🛠</h3>
 <hr>
-<!-- git github notion figma intellij -->
+<!-- git github notion figma slack gather -->
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -49,12 +49,6 @@
 
 <hr>
 
-<div align="center">
-  <!-- vscode intellij -->
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-
-  
-</div>
 
 <br>
 
