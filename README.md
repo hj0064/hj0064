@@ -1,8 +1,5 @@
 <div align="center">
-  <h2 align="center">
-    👋 Hi! Welcome to hj's Github 👋
-  </h2>
-  <hr>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=HJ IM Github%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3">
 </div>
 
 <br>
@@ -59,7 +56,7 @@
   
 </div>
 
-<hr>
+<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <hr>
