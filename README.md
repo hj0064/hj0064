@@ -9,7 +9,8 @@
 <hr>
 <div align="center">
 <!-- <img src="https://img.shields.io/badge/작성하려는 텍스트-색상코드?style=flat-square&logo=아이콘명&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Vue.js-#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
 
 </div>
 
